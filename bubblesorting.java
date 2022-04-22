@@ -28,7 +28,7 @@ class Main {
 
   public static void main(String args[]) {
       
-    int[] data = { -2, 49865, 0, 11, -9 };
+    int[] data = { -2, 5, 0, 11, -9 };
     
     // call method using class name
     Main.bubbleSort(data);
